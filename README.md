@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Python adventure game
 
 This repository contains code of a learning project called: "Python adventure game".
